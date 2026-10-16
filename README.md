@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Dzakiki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hey+there%2C+I'm+Dzaki+%F0%9F%91%8B;Java+%E2%80%A2+Dart+%E2%80%A2+TypeScript;Mobile%2C+web+%26+computer+vision;Always+shipping+side+projects" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Hey+there%2C+I'm+Dzaki+%F0%9F%91%8B;Java+%E2%80%A2+Python+%E2%80%A2+Spring+Boot;Backend%2C+cloud+%26+APIs;Always+shipping+side+projects" alt="Typing intro" />
   </a>
 </p>
 
@@ -19,17 +19,30 @@
 
 - 🎓 Student learning software engineering by building real projects
 - 🏋️ Currently working on **[gym](https://github.com/Dzakiki/gym)**, a workout app that tracks sessions and checks your form
-- 👀 Into mobile apps, web frontends and computer vision
-- 🌱 Exploring Next.js, Flutter and OpenCV
+- ⚙️ Into backend development: REST APIs, microservices and database design
+- ☁️ Working with AWS, Azure, Docker and CI/CD pipelines
+- 🤖 Building with AI dev tools like Claude Code, GitHub Copilot and Gemini CLI
 
 ### 🛠️ Tech stack
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,dart,flutter,ts,js,python,html,css&perline=8" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,spring,flask&perline=7" alt="Languages and frameworks" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,opencv,git,github,vscode,idea&perline=8" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,aws,azure,docker,git,githubactions&perline=7" alt="Databases, cloud and DevOps" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/REST_APIs-0096D6?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Gemini_CLI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini CLI" />
+</p>
+
+<p align="center">
+  <sub><b>Concepts:</b> OOP · Design Patterns · Microservices · Database Design · CI/CD · Agile</sub>
 </p>
 
 ### 🚀 Featured projects
