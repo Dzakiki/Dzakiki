@@ -18,7 +18,6 @@
 ### 👨‍💻 About me
 
 - 🎓 Student learning software engineering by building real projects
-- 🏋️ Currently working on **[gym](https://github.com/Dzakiki/gym)**, a workout app that tracks sessions and checks your form
 - ⚙️ Into backend development: REST APIs, microservices and database design
 - ☁️ Working with AWS, Azure, Docker and CI/CD pipelines
 - 🤖 Building with AI dev tools like Claude Code, GitHub Copilot and Gemini CLI
@@ -44,16 +43,6 @@
 <p align="center">
   <sub><b>Concepts:</b> OOP · Design Patterns · Microservices · Database Design · CI/CD · Agile</sub>
 </p>
-
-### 🚀 Featured projects
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| 🏋️ [**gym**](https://github.com/Dzakiki/gym) | Workout app to track sessions and check your form | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| 🙂 [**Face-Detector**](https://github.com/Dzakiki/Face-Detector) | Face detection with OpenCV and a JavaFX UI | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
-| ⚡ [**pokedex**](https://github.com/Dzakiki/pokedex) | Pokédex built while exploring Next.js and custom hooks | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
-| 🏃 [**Jogging-Spots**](https://github.com/Dzakiki/Jogging-Spots) | Find and share good places to run | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🗳️ [**Voting-app**](https://github.com/Dzakiki/Voting-app) | Get people to vote on stuff | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
 ### 📊 GitHub stats
 
